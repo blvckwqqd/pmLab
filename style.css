@@ -1,0 +1,17 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+#viewDiv {
+    padding: 0;
+    margin: 15px auto;
+    height: 700px;
+    width: 70%;
+    border: 1px solid black;
+}
+.support{
+    width: 700px;
+    margin: 5px auto;
+
+}
+
